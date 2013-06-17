@@ -19,3 +19,11 @@
 //=  require 'rails_admin/ra.widgets'
 //=  require 'rails_admin/ui'
 //=  require 'rails_admin/custom/ui'
+
+
+// copy from application js
+//= require underscore-min.js
+//= require backbone-min.js
+//= require admin_view.js
+//= require admin.js
+//= require js-routes
